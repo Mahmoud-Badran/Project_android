@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AndroidAppSec</string>
+    <string name="settings">Settings</string>
+    <string name="wajahatsheikh">Wajahatsheikh</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="username_or_email_address">Username Or Email Address</string>
+    <string name="stars">*****************</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="lets_join_us">Lets Join Us</string>
+    <string name="we_would_love_you_to_join_us">We would love you to join us</string>
+    <string name="we_have_multiple_options_for_you_to_join_us">We have multiple options for you to join us</string>
+    <string name="wajahatshiekh">WajahatShiekh</string>
+    <string name="mail">WajahatShiekh@Outlook.com</string>
+    <string name="let_invite_your_friends">Let Invite Your Friends</string>
+    <string name="invite">Invite</string>
+    <string name="through_email">Through Email</string>
+    <string name="sms">Through SMS</string>
+    <string name="_92_986_6325">92-986-6325</string>
+    <string name="enter_your_payment_detail">Enter your payment detail</string>
+    <string name="_4444_2356_2589_1459">4444 2356 2589 1459</string>
+    <string name="cardnum">Card Number</string>
+    <string name="holder_name">Holder Name</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="cvc">CVC</string>
+    <string name="card_expire_date">Card Expire Date</string>
+    <string name="do_you_want_add_other_payment_method">Do you want add other payment method ?</string>
+    <string name="add_new_payment_method">Add New Payment Method</string>
+    <string name="date0">01/22</string>
+    <string name="iii">1125</string>
+    <string name="rtr">Silk Bank Pakistan</string>
+    <string name="muhammad_wajahat_hussain">Muhammad Wajahat Hussain</string>
+    <string name="num1">4444 2356 2589 1459</string>
+</resources>
